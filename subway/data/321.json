@@ -1,0 +1,1836 @@
+{
+  "result": {
+    "error": 0,
+    "type": 920
+  },
+  "subways": {
+    "l": [
+      {
+        "l_xmlattr": {
+          "lb": "1号线",
+          "lbr": 0,
+          "lbx": 0,
+          "lby": 150,
+          "lc": "0xd63542",
+          "lid": "地铁1号线",
+          "loop": false,
+          "n": 20,
+          "slb": false,
+          "uid": "68f130369a5b155931870ab4",
+          "uid2": "50fe4f189ce1586e9122e07d"
+        },
+        "p": [
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:00",
+                  "last_time": "22:09",
+                  "line_name": "地铁1号线",
+                  "terminals": "坝堰(机场",
+                  "uid": "50fe4f189ce1586e9122e07d"
+                },
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "",
+                  "last_time": "",
+                  "line_name": "地铁1号线",
+                  "terminals": "伊利健康谷",
+                  "uid": "68f130369a5b155931870ab4"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "伊利健康谷",
+              "ln": "呼和浩特|地铁1号线",
+              "px": 12421354.52,
+              "py": 4953467.96,
+              "rc": false,
+              "rx": -35,
+              "ry": -25,
+              "sid": "伊利健康谷",
+              "slb": true,
+              "st": true,
+              "uid": "b0478453986fe431b9bd6344",
+              "x": -1046,
+              "y": 199.5
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:04",
+                  "last_time": "22:14",
+                  "line_name": "地铁1号线",
+                  "terminals": "坝堰(机场",
+                  "uid": "50fe4f189ce1586e9122e07d"
+                },
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:37",
+                  "last_time": "22:40",
+                  "line_name": "地铁1号线",
+                  "terminals": "伊利健康谷",
+                  "uid": "68f130369a5b155931870ab4"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "西二环路",
+              "ln": "呼和浩特|地铁1号线",
+              "px": 12423255.41,
+              "py": 4954898.11,
+              "rc": false,
+              "rx": -20,
+              "ry": -25,
+              "sid": "西二环路",
+              "slb": true,
+              "st": true,
+              "uid": "41624ad5906669340aa8d4dd",
+              "x": -941,
+              "y": 189
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:06",
+                  "last_time": "22:16",
+                  "line_name": "地铁1号线",
+                  "terminals": "坝堰(机场",
+                  "uid": "50fe4f189ce1586e9122e07d"
+                },
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:35",
+                  "last_time": "22:38",
+                  "line_name": "地铁1号线",
+                  "terminals": "伊利健康谷",
+                  "uid": "68f130369a5b155931870ab4"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "孔家营",
+              "ln": "呼和浩特|地铁1号线",
+              "px": 12424631.73,
+              "py": 4955616.13,
+              "rc": false,
+              "rx": -20,
+              "ry": -25,
+              "sid": "孔家营",
+              "slb": true,
+              "st": true,
+              "uid": "94fb6b8961e82121c3364427",
+              "x": -836,
+              "y": 178.5
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:08",
+                  "last_time": "22:18",
+                  "line_name": "地铁1号线",
+                  "terminals": "坝堰(机场",
+                  "uid": "50fe4f189ce1586e9122e07d"
+                },
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:33",
+                  "last_time": "22:36",
+                  "line_name": "地铁1号线",
+                  "terminals": "伊利健康谷",
+                  "uid": "68f130369a5b155931870ab4"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "呼钢东路",
+              "ln": "呼和浩特|地铁1号线",
+              "px": 12425973.77,
+              "py": 4956332.26,
+              "rc": false,
+              "rx": -30,
+              "ry": -25,
+              "sid": "呼钢东路",
+              "slb": true,
+              "st": true,
+              "uid": "87d07411ab81b339a9f0cdad",
+              "x": -731,
+              "y": 168
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:11",
+                  "last_time": "22:20",
+                  "line_name": "地铁1号线",
+                  "terminals": "坝堰(机场",
+                  "uid": "50fe4f189ce1586e9122e07d"
+                },
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:31",
+                  "last_time": "22:34",
+                  "line_name": "地铁1号线",
+                  "terminals": "伊利健康谷",
+                  "uid": "68f130369a5b155931870ab4"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "西龙王庙",
+              "ln": "呼和浩特|地铁1号线",
+              "px": 12427649.37,
+              "py": 4957217.88,
+              "rc": false,
+              "rx": -30,
+              "ry": -25,
+              "sid": "西龙王庙",
+              "slb": true,
+              "st": true,
+              "uid": "2515c410b58bbbb49ff779c4",
+              "x": -626,
+              "y": 157.5
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:12",
+                  "last_time": "22:22",
+                  "line_name": "地铁1号线",
+                  "terminals": "坝堰(机场",
+                  "uid": "50fe4f189ce1586e9122e07d"
+                },
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:29",
+                  "last_time": "22:32",
+                  "line_name": "地铁1号线",
+                  "terminals": "伊利健康谷",
+                  "uid": "68f130369a5b155931870ab4"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "乌兰夫纪念馆",
+              "ln": "呼和浩特|地铁1号线",
+              "px": 12428798.09,
+              "py": 4957806.22,
+              "rc": false,
+              "rx": -40,
+              "ry": -25,
+              "sid": "乌兰夫纪念馆",
+              "slb": true,
+              "st": true,
+              "uid": "d72a167e9e66862585154154",
+              "x": -512,
+              "y": 147
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:15",
+                  "last_time": "22:24",
+                  "line_name": "地铁1号线",
+                  "terminals": "坝堰(机场",
+                  "uid": "50fe4f189ce1586e9122e07d"
+                },
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:27",
+                  "last_time": "22:30",
+                  "line_name": "地铁1号线",
+                  "terminals": "伊利健康谷",
+                  "uid": "68f130369a5b155931870ab4"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "附属医院",
+              "ln": "呼和浩特|地铁1号线",
+              "px": 12430326.17,
+              "py": 4958306.76,
+              "rc": false,
+              "rx": -30,
+              "ry": -25,
+              "sid": "附属医院",
+              "slb": true,
+              "st": true,
+              "uid": "a6ff6640504aee2627e0a08b",
+              "x": -416,
+              "y": 136.5
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": true,
+              "info": [
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:17",
+                  "last_time": "22:28",
+                  "line_name": "地铁1号线",
+                  "terminals": "坝堰(机场",
+                  "uid": "50fe4f189ce1586e9122e07d"
+                },
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:25",
+                  "last_time": "22:28",
+                  "line_name": "地铁1号线",
+                  "terminals": "伊利健康谷",
+                  "uid": "68f130369a5b155931870ab4"
+                },
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:21",
+                  "last_time": "22:27",
+                  "line_name": "地铁2号线",
+                  "terminals": "塔利东路",
+                  "uid": "7e567728e8ab730f9c09f727"
+                },
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:26",
+                  "last_time": "22:27",
+                  "line_name": "地铁2号线",
+                  "terminals": "阿尔山路",
+                  "uid": "fec75e231bdcbbc64557266d"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "新华广场",
+              "ln": "呼和浩特|地铁1号线",
+              "px": 12431660.48,
+              "py": 4958677.52,
+              "rc": false,
+              "rx": 10,
+              "ry": -25,
+              "sid": "新华广场",
+              "slb": true,
+              "st": true,
+              "uid": "0375128695e45d260869d966",
+              "x": -311,
+              "y": 126
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:18",
+                  "last_time": "22:29",
+                  "line_name": "地铁1号线",
+                  "terminals": "坝堰(机场",
+                  "uid": "50fe4f189ce1586e9122e07d"
+                },
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:23",
+                  "last_time": "22:24",
+                  "line_name": "地铁1号线",
+                  "terminals": "伊利健康谷",
+                  "uid": "68f130369a5b155931870ab4"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "人民会堂",
+              "ln": "呼和浩特|地铁1号线",
+              "px": 12432629.5,
+              "py": 4958986.42,
+              "rc": false,
+              "rx": -20,
+              "ry": -25,
+              "sid": "人民会堂",
+              "slb": true,
+              "st": true,
+              "uid": "56685d2bf4647b6ff50e77df",
+              "x": -206,
+              "y": 115.5
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:20",
+                  "last_time": "22:31",
+                  "line_name": "地铁1号线",
+                  "terminals": "坝堰(机场",
+                  "uid": "50fe4f189ce1586e9122e07d"
+                },
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:21",
+                  "last_time": "22:22",
+                  "line_name": "地铁1号线",
+                  "terminals": "伊利健康谷",
+                  "uid": "68f130369a5b155931870ab4"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "将军衙署",
+              "ln": "呼和浩特|地铁1号线",
+              "px": 12434141.63,
+              "py": 4959424.68,
+              "rc": false,
+              "rx": -30,
+              "ry": -25,
+              "sid": "将军衙署",
+              "slb": true,
+              "st": true,
+              "uid": "7b8c7140ca891cbc4f6d4610",
+              "x": -101,
+              "y": 105
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:22",
+                  "last_time": "22:33",
+                  "line_name": "地铁1号线",
+                  "terminals": "坝堰(机场",
+                  "uid": "50fe4f189ce1586e9122e07d"
+                },
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:19",
+                  "last_time": "22:21",
+                  "line_name": "地铁1号线",
+                  "terminals": "伊利健康谷",
+                  "uid": "68f130369a5b155931870ab4"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "艺术学院",
+              "ln": "呼和浩特|地铁1号线",
+              "px": 12435196.62,
+              "py": 4959843.22,
+              "rc": false,
+              "rx": -30,
+              "ry": -25,
+              "sid": "艺术学院",
+              "slb": true,
+              "st": true,
+              "uid": "d76969a7003fa38c3010af80",
+              "x": 4,
+              "y": 94.5
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:24",
+                  "last_time": "22:35",
+                  "line_name": "地铁1号线",
+                  "terminals": "坝堰(机场",
+                  "uid": "50fe4f189ce1586e9122e07d"
+                },
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:17",
+                  "last_time": "22:19",
+                  "line_name": "地铁1号线",
+                  "terminals": "伊利健康谷",
+                  "uid": "68f130369a5b155931870ab4"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "东影路",
+              "ln": "呼和浩特|地铁1号线",
+              "px": 12436248.12,
+              "py": 4960179.59,
+              "rc": false,
+              "rx": -20,
+              "ry": -25,
+              "sid": "东影路",
+              "slb": true,
+              "st": true,
+              "uid": "39bf5e20edd4fb6540afe68f",
+              "x": 109,
+              "y": 84
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:26",
+                  "last_time": "22:37",
+                  "line_name": "地铁1号线",
+                  "terminals": "坝堰(机场",
+                  "uid": "50fe4f189ce1586e9122e07d"
+                },
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:16",
+                  "last_time": "22:17",
+                  "line_name": "地铁1号线",
+                  "terminals": "伊利健康谷",
+                  "uid": "68f130369a5b155931870ab4"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "内蒙古展览馆",
+              "ln": "呼和浩特|地铁1号线",
+              "px": 12437503.2,
+              "py": 4960550.7,
+              "rc": false,
+              "rx": -40,
+              "ry": -25,
+              "sid": "内蒙古展览馆",
+              "slb": true,
+              "st": true,
+              "uid": "c855104f23d555ac75e5b6ea",
+              "x": 214,
+              "y": 73.5
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:28",
+                  "last_time": "22:39",
+                  "line_name": "地铁1号线",
+                  "terminals": "坝堰(机场",
+                  "uid": "50fe4f189ce1586e9122e07d"
+                },
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:14",
+                  "last_time": "22:15",
+                  "line_name": "地铁1号线",
+                  "terminals": "伊利健康谷",
+                  "uid": "68f130369a5b155931870ab4"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "内蒙古博物院",
+              "ln": "呼和浩特|地铁1号线",
+              "px": 12438904.68,
+              "py": 4960942.69,
+              "rc": false,
+              "rx": -40,
+              "ry": -25,
+              "sid": "内蒙古博物院",
+              "slb": true,
+              "st": true,
+              "uid": "83e57f34f062e32bc16c1424",
+              "x": 319,
+              "y": 63
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:30",
+                  "last_time": "22:41",
+                  "line_name": "地铁1号线",
+                  "terminals": "坝堰(机场",
+                  "uid": "50fe4f189ce1586e9122e07d"
+                },
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:11",
+                  "last_time": "22:12",
+                  "line_name": "地铁1号线",
+                  "terminals": "伊利健康谷",
+                  "uid": "68f130369a5b155931870ab4"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "市政府",
+              "ln": "呼和浩特|地铁1号线",
+              "px": 12440516.99,
+              "py": 4961381.64,
+              "rc": false,
+              "rx": -20,
+              "ry": -25,
+              "sid": "市政府",
+              "slb": true,
+              "st": true,
+              "uid": "0765acd1947c98dca0acc45f",
+              "x": 424,
+              "y": 52.5
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:33",
+                  "last_time": "22:44",
+                  "line_name": "地铁1号线",
+                  "terminals": "坝堰(机场",
+                  "uid": "50fe4f189ce1586e9122e07d"
+                },
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:08",
+                  "last_time": "22:10",
+                  "line_name": "地铁1号线",
+                  "terminals": "伊利健康谷",
+                  "uid": "68f130369a5b155931870ab4"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "呼和浩特东站",
+              "ln": "呼和浩特|地铁1号线",
+              "px": 12442693.97,
+              "py": 4962488.58,
+              "rc": false,
+              "rx": -40,
+              "ry": -25,
+              "sid": "呼和浩特东站",
+              "slb": true,
+              "st": true,
+              "uid": "679d7abf719f2840ce04ef0b",
+              "x": 529,
+              "y": 42
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:35",
+                  "last_time": "22:46",
+                  "line_name": "地铁1号线",
+                  "terminals": "坝堰(机场",
+                  "uid": "50fe4f189ce1586e9122e07d"
+                },
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:06",
+                  "last_time": "22:07",
+                  "line_name": "地铁1号线",
+                  "terminals": "伊利健康谷",
+                  "uid": "68f130369a5b155931870ab4"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "后不塔气",
+              "ln": "呼和浩特|地铁1号线",
+              "px": 12444302.52,
+              "py": 4962605.06,
+              "rc": false,
+              "rx": -30,
+              "ry": -25,
+              "sid": "后不塔气",
+              "slb": true,
+              "st": true,
+              "uid": "81a21dfeddecc8d733621261",
+              "x": 634,
+              "y": 31.5
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:38",
+                  "last_time": "22:49",
+                  "line_name": "地铁1号线",
+                  "terminals": "坝堰(机场",
+                  "uid": "50fe4f189ce1586e9122e07d"
+                },
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:03",
+                  "last_time": "22:05",
+                  "line_name": "地铁1号线",
+                  "terminals": "伊利健康谷",
+                  "uid": "68f130369a5b155931870ab4"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "什兰岱",
+              "ln": "呼和浩特|地铁1号线",
+              "px": 12446534.64,
+              "py": 4963258.06,
+              "rc": false,
+              "rx": -20,
+              "ry": -25,
+              "sid": "什兰岱",
+              "slb": true,
+              "st": true,
+              "uid": "dfe032446bc4cea08e7727a6",
+              "x": 739,
+              "y": 21
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:40",
+                  "last_time": "22:51",
+                  "line_name": "地铁1号线",
+                  "terminals": "坝堰(机场",
+                  "uid": "50fe4f189ce1586e9122e07d"
+                },
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:02",
+                  "last_time": "22:03",
+                  "line_name": "地铁1号线",
+                  "terminals": "伊利健康谷",
+                  "uid": "68f130369a5b155931870ab4"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "白塔西",
+              "ln": "呼和浩特|地铁1号线",
+              "px": 12447732.98,
+              "py": 4963658.61,
+              "rc": false,
+              "rx": -20,
+              "ry": -25,
+              "sid": "白塔西",
+              "slb": true,
+              "st": true,
+              "uid": "c1d9eb0371afde50c9fa5fe6",
+              "x": 844,
+              "y": 10.5
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "",
+                  "last_time": "",
+                  "line_name": "地铁1号线",
+                  "terminals": "坝堰(机场",
+                  "uid": "50fe4f189ce1586e9122e07d"
+                },
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:00",
+                  "last_time": "22:01",
+                  "line_name": "地铁1号线",
+                  "terminals": "伊利健康谷",
+                  "uid": "68f130369a5b155931870ab4"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "坝堰(机场)",
+              "ln": "呼和浩特|地铁1号线",
+              "px": 12449112.06,
+              "py": 4964093.64,
+              "rc": false,
+              "rx": -40,
+              "ry": -25,
+              "sid": "坝堰(机场)",
+              "slb": true,
+              "st": true,
+              "uid": "45cac5862b45ff5103ff2dfa",
+              "x": 949,
+              "y": 0
+            }
+          }
+        ]
+      },
+      {
+        "l_xmlattr": {
+          "lb": "2号线",
+          "lbr": 0,
+          "lbx": -150,
+          "lby": 670,
+          "lc": "0x1F39FB",
+          "lid": "地铁2号线",
+          "loop": false,
+          "slb": false,
+          "uid": "7e567728e8ab730f9c09f727",
+          "uid2": "fec75e231bdcbbc64557266d"
+        },
+        "p": [
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:00",
+                  "last_time": "22:04",
+                  "line_name": "地铁2号线",
+                  "terminals": "塔利东路",
+                  "uid": "7e567728e8ab730f9c09f727"
+                },
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "",
+                  "last_time": "",
+                  "line_name": "地铁2号线",
+                  "terminals": "阿尔山路",
+                  "uid": "fec75e231bdcbbc64557266d"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "阿尔山路",
+              "ln": "呼和浩特|地铁2号线",
+              "px": 12440574.97,
+              "py": 4949075.47,
+              "rc": false,
+              "rx": -20,
+              "ry": 10,
+              "sid": "阿尔山路",
+              "slb": true,
+              "st": true,
+              "uid": "54d70ef255bedfbc0ab93a92",
+              "x": -109,
+              "y": 626
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:45",
+                  "last_time": "22:47",
+                  "line_name": "地铁2号线",
+                  "terminals": "阿尔山路",
+                  "uid": "fec75e231bdcbbc64557266d"
+                },
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:02",
+                  "last_time": "22:07",
+                  "line_name": "地铁2号线",
+                  "terminals": "塔利东路",
+                  "uid": "7e567728e8ab730f9c09f727"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "喇嘛营",
+              "ln": "呼和浩特|地铁2号线",
+              "px": 12438709.5,
+              "py": 4949129.51,
+              "rc": false,
+              "rx": -20,
+              "ry": 10,
+              "sid": "喇嘛营",
+              "slb": true,
+              "st": true,
+              "uid": "6075eb6f10a9c4b0f7b916a7",
+              "x": -190,
+              "y": 626
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:42",
+                  "last_time": "22:44",
+                  "line_name": "地铁2号线",
+                  "terminals": "阿尔山路",
+                  "uid": "fec75e231bdcbbc64557266d"
+                },
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:05",
+                  "last_time": "22:09",
+                  "line_name": "地铁2号线",
+                  "terminals": "塔利东路",
+                  "uid": "7e567728e8ab730f9c09f727"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "帅家营",
+              "ln": "呼和浩特|地铁2号线",
+              "px": 12436005.02,
+              "py": 4949133.76,
+              "rc": false,
+              "rx": -20,
+              "ry": 10,
+              "sid": "帅家营",
+              "slb": true,
+              "st": true,
+              "uid": "38a5039ce0cde7e4f7e73bcb",
+              "x": -271,
+              "y": 626
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "int": "3",
+              "iu": true,
+              "lb": "",
+              "ln": "呼和浩特|地铁2号线",
+              "rc": false,
+              "rx": 10,
+              "ry": -8,
+              "sid": "",
+              "slb": true,
+              "st": false,
+              "x": -311,
+              "y": 626
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:40",
+                  "last_time": "22:41",
+                  "line_name": "地铁2号线",
+                  "terminals": "阿尔山路",
+                  "uid": "fec75e231bdcbbc64557266d"
+                },
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:07",
+                  "last_time": "22:12",
+                  "line_name": "地铁2号线",
+                  "terminals": "塔利东路",
+                  "uid": "7e567728e8ab730f9c09f727"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "内大南校区",
+              "ln": "呼和浩特|地铁2号线",
+              "px": 12434402.79,
+              "py": 4949604.58,
+              "rc": false,
+              "rx": 10,
+              "ry": -8,
+              "sid": "内大南校区",
+              "slb": true,
+              "st": true,
+              "uid": "ddf9dc84b968e3542cb96dcb",
+              "x": -311,
+              "y": 597
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:37",
+                  "last_time": "22:39",
+                  "line_name": "地铁2号线",
+                  "terminals": "阿尔山路",
+                  "uid": "fec75e231bdcbbc64557266d"
+                },
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:10",
+                  "last_time": "22:14",
+                  "line_name": "地铁2号线",
+                  "terminals": "塔利东路",
+                  "uid": "7e567728e8ab730f9c09f727"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "锡林公园",
+              "ln": "呼和浩特|地铁2号线",
+              "px": 12433854.77,
+              "py": 4951353.55,
+              "rc": false,
+              "rx": 10,
+              "ry": -8,
+              "sid": "锡林公园",
+              "slb": true,
+              "st": true,
+              "uid": "a7bb0fb665bf7fdd97ec84d8",
+              "x": -311,
+              "y": 530
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:11",
+                  "last_time": "22:16",
+                  "line_name": "地铁2号线",
+                  "terminals": "塔利东路",
+                  "uid": "7e567728e8ab730f9c09f727"
+                },
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:36",
+                  "last_time": "22:37",
+                  "line_name": "地铁2号线",
+                  "terminals": "阿尔山路",
+                  "uid": "fec75e231bdcbbc64557266d"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "五里营",
+              "ln": "呼和浩特|地铁2号线",
+              "px": 12433558.12,
+              "py": 4952285.11,
+              "rc": false,
+              "rx": 10,
+              "ry": -8,
+              "sid": "五里营",
+              "slb": true,
+              "st": true,
+              "uid": "413ec8c6be852c4e1b94c64e",
+              "x": -311,
+              "y": 463
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:34",
+                  "last_time": "22:35",
+                  "line_name": "地铁2号线",
+                  "terminals": "阿尔山路",
+                  "uid": "fec75e231bdcbbc64557266d"
+                },
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:13",
+                  "last_time": "22:18",
+                  "line_name": "地铁2号线",
+                  "terminals": "塔利东路",
+                  "uid": "7e567728e8ab730f9c09f727"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "水上公园",
+              "ln": "呼和浩特|地铁2号线",
+              "px": 12433166.6,
+              "py": 4953591.61,
+              "rc": false,
+              "rx": 10,
+              "ry": -8,
+              "sid": "水上公园",
+              "slb": true,
+              "st": true,
+              "uid": "6281b39aa2ac34c4e856fa87",
+              "x": -311,
+              "y": 396
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:31",
+                  "last_time": "22:33",
+                  "line_name": "地铁2号线",
+                  "terminals": "阿尔山路",
+                  "uid": "fec75e231bdcbbc64557266d"
+                },
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:15",
+                  "last_time": "22:20",
+                  "line_name": "地铁2号线",
+                  "terminals": "塔利东路",
+                  "uid": "7e567728e8ab730f9c09f727"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "诺和木勒",
+              "ln": "呼和浩特|地铁2号线",
+              "px": 12433004.89,
+              "py": 4955291.22,
+              "rc": false,
+              "rx": 10,
+              "ry": -8,
+              "sid": "诺和木勒",
+              "slb": true,
+              "st": true,
+              "uid": "091395abac879852eedfcad8",
+              "x": -311,
+              "y": 329
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:30",
+                  "last_time": "22:31",
+                  "line_name": "地铁2号线",
+                  "terminals": "阿尔山路",
+                  "uid": "fec75e231bdcbbc64557266d"
+                },
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:17",
+                  "last_time": "22:22",
+                  "line_name": "地铁2号线",
+                  "terminals": "塔利东路",
+                  "uid": "7e567728e8ab730f9c09f727"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "大学西街",
+              "ln": "呼和浩特|地铁2号线",
+              "px": 12432533.83,
+              "py": 4956471.63,
+              "rc": false,
+              "rx": 10,
+              "ry": -8,
+              "sid": "大学西街",
+              "slb": true,
+              "st": true,
+              "uid": "939141577b61961ea8059dac",
+              "x": -311,
+              "y": 262
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:19",
+                  "last_time": "22:24",
+                  "line_name": "地铁2号线",
+                  "terminals": "塔利东路",
+                  "uid": "7e567728e8ab730f9c09f727"
+                },
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:28",
+                  "last_time": "22:29",
+                  "line_name": "地铁2号线",
+                  "terminals": "阿尔山路",
+                  "uid": "fec75e231bdcbbc64557266d"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "中山路",
+              "ln": "呼和浩特|地铁2号线",
+              "px": 12432032.44,
+              "py": 4957741.53,
+              "rc": false,
+              "rx": 10,
+              "ry": -8,
+              "sid": "中山路",
+              "slb": true,
+              "st": true,
+              "uid": "9421995f5b8498644afd3fe9",
+              "x": -311,
+              "y": 195
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": true,
+              "info": [
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:17",
+                  "last_time": "22:28",
+                  "line_name": "地铁1号线",
+                  "terminals": "坝堰(机场",
+                  "uid": "50fe4f189ce1586e9122e07d"
+                },
+                {
+                  "abb": "1号线",
+                  "clr": "0xd63542",
+                  "first_time": "06:25",
+                  "last_time": "22:28",
+                  "line_name": "地铁1号线",
+                  "terminals": "伊利健康谷",
+                  "uid": "68f130369a5b155931870ab4"
+                },
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:21",
+                  "last_time": "22:27",
+                  "line_name": "地铁2号线",
+                  "terminals": "塔利东路",
+                  "uid": "7e567728e8ab730f9c09f727"
+                },
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:26",
+                  "last_time": "22:27",
+                  "line_name": "地铁2号线",
+                  "terminals": "阿尔山路",
+                  "uid": "fec75e231bdcbbc64557266d"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "新华广场",
+              "ln": "呼和浩特|地铁2号线",
+              "px": 12431690.77,
+              "py": 4958611.1,
+              "rc": false,
+              "rx": 10,
+              "ry": -25,
+              "sid": "新华广场",
+              "slb": true,
+              "st": true,
+              "uid": "a0651a72b63d15342bd7abdd",
+              "x": -311,
+              "y": 126
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:23",
+                  "last_time": "22:29",
+                  "line_name": "地铁2号线",
+                  "terminals": "塔利东路",
+                  "uid": "7e567728e8ab730f9c09f727"
+                },
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:24",
+                  "last_time": "22:24",
+                  "line_name": "地铁2号线",
+                  "terminals": "阿尔山路",
+                  "uid": "fec75e231bdcbbc64557266d"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "呼和浩特站",
+              "ln": "呼和浩特|地铁2号线",
+              "px": 12431444.18,
+              "py": 4959841.42,
+              "rc": false,
+              "rx": 10,
+              "ry": -8,
+              "sid": "呼和浩特站",
+              "slb": true,
+              "st": true,
+              "uid": "6dc346b819ecbe0b3c9a5eb8",
+              "x": -311,
+              "y": 59
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:25",
+                  "last_time": "22:31",
+                  "line_name": "地铁2号线",
+                  "terminals": "塔利东路",
+                  "uid": "7e567728e8ab730f9c09f727"
+                },
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:22",
+                  "last_time": "22:22",
+                  "line_name": "地铁2号线",
+                  "terminals": "阿尔山路",
+                  "uid": "fec75e231bdcbbc64557266d"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "公主府",
+              "ln": "呼和浩特|地铁2号线",
+              "px": 12431050.81,
+              "py": 4960826.51,
+              "rc": false,
+              "rx": 10,
+              "ry": -8,
+              "sid": "公主府",
+              "slb": true,
+              "st": true,
+              "uid": "a923354dd283dcbc260bd0dc",
+              "x": -311,
+              "y": -8
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:27",
+                  "last_time": "22:34",
+                  "line_name": "地铁2号线",
+                  "terminals": "塔利东路",
+                  "uid": "7e567728e8ab730f9c09f727"
+                },
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:19",
+                  "last_time": "22:19",
+                  "line_name": "地铁2号线",
+                  "terminals": "阿尔山路",
+                  "uid": "fec75e231bdcbbc64557266d"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "呼和浩特体育场",
+              "ln": "呼和浩特|地铁2号线",
+              "px": 12430352.33,
+              "py": 4962918.71,
+              "rc": false,
+              "rx": 10,
+              "ry": -8,
+              "sid": "呼和浩特体育场",
+              "slb": true,
+              "st": true,
+              "uid": "b296dfb3fc0efe594251c0d3",
+              "x": -311,
+              "y": -75
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "int": "3",
+              "iu": true,
+              "lb": "",
+              "ln": "呼和浩特|地铁2号线",
+              "rc": false,
+              "rx": 10,
+              "ry": -8,
+              "sid": "",
+              "slb": true,
+              "st": false,
+              "x": -311,
+              "y": -114
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:30",
+                  "last_time": "22:36",
+                  "line_name": "地铁2号线",
+                  "terminals": "塔利东路",
+                  "uid": "7e567728e8ab730f9c09f727"
+                },
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:17",
+                  "last_time": "22:17",
+                  "line_name": "地铁2号线",
+                  "terminals": "阿尔山路",
+                  "uid": "fec75e231bdcbbc64557266d"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "内蒙古体育馆",
+              "ln": "呼和浩特|地铁2号线",
+              "px": 12431277.48,
+              "py": 4963738.27,
+              "rc": false,
+              "rx": -40,
+              "ry": -25,
+              "sid": "内蒙古体育馆",
+              "slb": true,
+              "st": true,
+              "uid": "5e1d5c7b21c7dc8b2202200f",
+              "x": -289,
+              "y": -114
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:32",
+                  "last_time": "22:38",
+                  "line_name": "地铁2号线",
+                  "terminals": "塔利东路",
+                  "uid": "7e567728e8ab730f9c09f727"
+                },
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:15",
+                  "last_time": "22:15",
+                  "line_name": "地铁2号线",
+                  "terminals": "阿尔山路",
+                  "uid": "fec75e231bdcbbc64557266d"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "成吉思汗广场",
+              "ln": "呼和浩特|地铁2号线",
+              "px": 12432633.91,
+              "py": 4963988.22,
+              "rc": false,
+              "rx": -40,
+              "ry": -25,
+              "sid": "成吉思汗广场",
+              "slb": true,
+              "st": true,
+              "uid": "2cda0d4f6354826875e5b6aa",
+              "x": -206,
+              "y": -114
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:13",
+                  "last_time": "22:13",
+                  "line_name": "地铁2号线",
+                  "terminals": "阿尔山路",
+                  "uid": "fec75e231bdcbbc64557266d"
+                },
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:34",
+                  "last_time": "22:40",
+                  "line_name": "地铁2号线",
+                  "terminals": "塔利东路",
+                  "uid": "7e567728e8ab730f9c09f727"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "毫沁营",
+              "ln": "呼和浩特|地铁2号线",
+              "px": 12434210.91,
+              "py": 4964298.9,
+              "rc": false,
+              "rx": -20,
+              "ry": -25,
+              "sid": "毫沁营",
+              "slb": true,
+              "st": true,
+              "uid": "00521f1905483ea1dc1e5219",
+              "x": -137,
+              "y": -114
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:36",
+                  "last_time": "22:42",
+                  "line_name": "地铁2号线",
+                  "terminals": "塔利东路",
+                  "uid": "7e567728e8ab730f9c09f727"
+                },
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:11",
+                  "last_time": "22:11",
+                  "line_name": "地铁2号线",
+                  "terminals": "阿尔山路",
+                  "uid": "fec75e231bdcbbc64557266d"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "成吉思汗公园",
+              "ln": "呼和浩特|地铁2号线",
+              "px": 12435763.48,
+              "py": 4964649.57,
+              "rc": false,
+              "rx": -40,
+              "ry": -25,
+              "sid": "成吉思汗公园",
+              "slb": true,
+              "st": true,
+              "uid": "0ce13eb0b870183272210bb2",
+              "x": -70,
+              "y": -114
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:09",
+                  "last_time": "22:09",
+                  "line_name": "地铁2号线",
+                  "terminals": "阿尔山路",
+                  "uid": "fec75e231bdcbbc64557266d"
+                },
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:38",
+                  "last_time": "22:44",
+                  "line_name": "地铁2号线",
+                  "terminals": "塔利东路",
+                  "uid": "7e567728e8ab730f9c09f727"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "一家村",
+              "ln": "呼和浩特|地铁2号线",
+              "px": 12437295.97,
+              "py": 4964348.78,
+              "rc": false,
+              "rx": -20,
+              "ry": -25,
+              "sid": "一家村",
+              "slb": true,
+              "st": true,
+              "uid": "17e50d525cfc4401ca09f0ee",
+              "x": -3,
+              "y": -114
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:07",
+                  "last_time": "22:07",
+                  "line_name": "地铁2号线",
+                  "terminals": "阿尔山路",
+                  "uid": "fec75e231bdcbbc64557266d"
+                },
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:40",
+                  "last_time": "22:46",
+                  "line_name": "地铁2号线",
+                  "terminals": "塔利东路",
+                  "uid": "7e567728e8ab730f9c09f727"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "东二环路",
+              "ln": "呼和浩特|地铁2号线",
+              "px": 12438854.9,
+              "py": 4964295.33,
+              "rc": false,
+              "rx": -30,
+              "ry": -25,
+              "sid": "东二环路",
+              "slb": true,
+              "st": true,
+              "uid": "489cfc08b9468998ee74f8ef",
+              "x": 64,
+              "y": -114
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "int": "3",
+              "iu": true,
+              "lb": "新华图书馆",
+              "ln": "呼和浩特|地铁2号线",
+              "rc": false,
+              "rx": -35,
+              "ry": -25,
+              "sid": "新华图书馆",
+              "slb": true,
+              "st": true,
+              "x": 131,
+              "y": -114
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "int": "3",
+              "iu": true,
+              "lb": "白合路",
+              "ln": "呼和浩特|地铁2号线",
+              "rc": false,
+              "rx": -20,
+              "ry": -25,
+              "sid": "白合路",
+              "slb": true,
+              "st": true,
+              "x": 198,
+              "y": -114
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:45",
+                  "last_time": "22:52",
+                  "line_name": "地铁2号线",
+                  "terminals": "塔利东路",
+                  "uid": "7e567728e8ab730f9c09f727"
+                },
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:01",
+                  "last_time": "22:01",
+                  "line_name": "地铁2号线",
+                  "terminals": "阿尔山路",
+                  "uid": "fec75e231bdcbbc64557266d"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "新店",
+              "ln": "呼和浩特|地铁2号线",
+              "px": 12442594.31,
+              "py": 4965425.26,
+              "rc": false,
+              "rx": -15,
+              "ry": -25,
+              "sid": "新店",
+              "slb": true,
+              "st": true,
+              "uid": "9519c3475246ab702efaa7e5",
+              "x": 265,
+              "y": -114
+            }
+          },
+          {
+            "p_xmlattr": {
+              "ex": false,
+              "info": [
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "06:00",
+                  "last_time": "22:00",
+                  "line_name": "地铁2号线",
+                  "terminals": "阿尔山路",
+                  "uid": "fec75e231bdcbbc64557266d"
+                },
+                {
+                  "abb": "2号线",
+                  "clr": "0x1f39f8",
+                  "first_time": "",
+                  "last_time": "",
+                  "line_name": "地铁2号线",
+                  "terminals": "塔利东路",
+                  "uid": "7e567728e8ab730f9c09f727"
+                }
+              ],
+              "int": "3",
+              "iu": true,
+              "lb": "塔利东路",
+              "ln": "呼和浩特|地铁2号线",
+              "px": 12443860.6,
+              "py": 4965737.81,
+              "rc": false,
+              "rx": -25,
+              "ry": -25,
+              "sid": "塔利东路",
+              "slb": true,
+              "st": true,
+              "uid": "766405c85997e2e40ab93a14",
+              "x": 332,
+              "y": -114
+            }
+          }
+        ]
+      }
+    ],
+    "sw_xmlattr": {
+      "bg": "",
+      "c": "呼和浩特市",
+      "cid": "呼和浩特市",
+      "icon": "",
+      "n": 1,
+      "src": " ",
+      "version": "297efea4d55e11506ea34f4ba4b0c8664410ec34d9e6c1a68100ca0ce033fb17"
+    }
+  }
+}

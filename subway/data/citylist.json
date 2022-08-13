@@ -1,0 +1,427 @@
+{
+  "result": {
+    "error": "0",
+    "subwayVersion": "20220729",
+    "type": "921"
+  },
+  "subways_city": {
+    "cities": [
+      {
+        "cename": "beijing",
+        "cn_name": "北京市",
+        "code": 131,
+        "cpre": "bj"
+      },
+      {
+        "cename": "shanghai",
+        "cn_name": "上海市",
+        "code": 289,
+        "cpre": "shh",
+        "cxfDis": 0
+      },
+      {
+        "cename": "guangzhou",
+        "cn_name": "广州市",
+        "code": 257,
+        "cpre": "gzh"
+      },
+      {
+        "cename": "shenzhen",
+        "cn_name": "深圳市",
+        "code": 340,
+        "cpre": "szh"
+      },
+      {
+        "cename": "chongqing",
+        "cn_name": "重庆市",
+        "code": 132,
+        "cpre": "chq"
+      },
+      {
+        "cename": "tianjin",
+        "cn_name": "天津市",
+        "code": 332,
+        "cpre": "tj"
+      },
+      {
+        "cename": "shijiazhuang",
+        "cn_name": "石家庄市",
+        "code": 150,
+        "cpre": "shjzh"
+      },
+      {
+        "cename": "nanjing",
+        "cn_name": "南京市",
+        "code": 315,
+        "cpre": "nj"
+      },
+      {
+        "cename": "chengdu",
+        "cn_name": "成都市",
+        "code": 75,
+        "cpre": "chd"
+      },
+      {
+        "cename": "shenyang",
+        "cn_name": "沈阳市",
+        "code": 58,
+        "cpre": "shy"
+      },
+      {
+        "cename": "hangzhou",
+        "cn_name": "杭州市",
+        "code": 179,
+        "cpre": "hzh"
+      },
+      {
+        "cename": "wuhan",
+        "cn_name": "武汉市",
+        "code": 218,
+        "cpre": "wh"
+      },
+      {
+        "cename": "changsha",
+        "cn_name": "长沙市",
+        "code": 158,
+        "cpre": "cs"
+      },
+      {
+        "cename": "suzhou",
+        "cn_name": "苏州市",
+        "code": 224,
+        "cpre": "suz"
+      },
+      {
+        "cename": "dalian",
+        "cn_name": "大连市",
+        "code": 167,
+        "cpre": "dl"
+      },
+      {
+        "cename": "changchun",
+        "cn_name": "长春市",
+        "code": 53,
+        "cpre": "chc"
+      },
+      {
+        "cename": "xian",
+        "cn_name": "西安市",
+        "code": 233,
+        "cpre": "xian"
+      },
+      {
+        "cename": "kunming",
+        "cn_name": "昆明市",
+        "code": 104,
+        "cpre": "km"
+      },
+      {
+        "cename": "foshan",
+        "cn_name": "佛山市",
+        "code": 138,
+        "cpre": "fsh"
+      },
+      {
+        "cename": "haerbin",
+        "cn_name": "哈尔滨市",
+        "code": 48,
+        "cpre": "hrb"
+      },
+      {
+        "cename": "zhengzhou",
+        "cn_name": "郑州市",
+        "code": 268,
+        "cpre": "zhzh"
+      },
+      {
+        "cename": "ningbo",
+        "cn_name": "宁波市",
+        "code": 180,
+        "cpre": "nbo"
+      },
+      {
+        "cename": "wuxi",
+        "cn_name": "无锡市",
+        "code": 317,
+        "cpre": "wuxi"
+      },
+      {
+        "cename": "wenzhou",
+        "cn_name": "温州市",
+        "code": 178,
+        "cpre": "wenzhou"
+      },
+      {
+        "cename": "changzhou",
+        "cn_name": "常州市",
+        "code": 348,
+        "cpre": "changzhou"
+      },
+      {
+        "cename": "qingdao",
+        "cn_name": "青岛市",
+        "code": 236,
+        "cpre": "qd"
+      },
+      {
+        "cename": "jinan",
+        "cn_name": "济南市",
+        "code": 288,
+        "cpre": "jn"
+      },
+      {
+        "cename": "nanchang",
+        "cn_name": "南昌市",
+        "code": 163,
+        "cpre": "nanchang"
+      },
+      {
+        "cename": "fuzhou",
+        "cn_name": "福州市",
+        "code": 300,
+        "cpre": "fuzhou"
+      },
+      {
+        "cename": "dongguan",
+        "cn_name": "东莞市",
+        "code": 119,
+        "cpre": "dongguan"
+      },
+      {
+        "cename": "nanning",
+        "cn_name": "南宁市",
+        "code": 261,
+        "cpre": "nanning"
+      },
+      {
+        "cename": "hefei",
+        "cn_name": "合肥市",
+        "code": 127,
+        "cpre": "hefei"
+      },
+      {
+        "cename": "xiamen",
+        "cn_name": "厦门市",
+        "code": 194,
+        "cpre": "xiamen"
+      },
+      {
+        "cename": "wulumuqi",
+        "cn_name": "乌鲁木齐市",
+        "code": 92,
+        "cpre": "wulumuqi"
+      },
+      {
+        "cename": "guiyang",
+        "cn_name": "贵阳市",
+        "code": 146,
+        "cpre": "guiyang"
+      },
+      {
+        "cename": "lanzhou",
+        "cn_name": "兰州市",
+        "code": 36,
+        "cpre": "lanzhou"
+      },
+      {
+        "cename": "xuzhou",
+        "cn_name": "徐州市",
+        "code": 316,
+        "cpre": "xuzhou"
+      },
+      {
+        "cename": "huhehaote",
+        "cn_name": "呼和浩特市",
+        "code": 321,
+        "cpre": "huhehaote"
+      },
+      {
+        "cename": "taiyuan",
+        "cn_name": "太原市",
+        "code": 176,
+        "cpre": "taiyuan"
+      },
+      {
+        "cename": "luoyang",
+        "cn_name": "洛阳市",
+        "code": 153,
+        "cpre": "luoyang"
+      },
+      {
+        "cename": "shaoxing",
+        "cn_name": "绍兴市",
+        "code": 293,
+        "cpre": "shaoxing"
+      },
+      {
+        "cename": "wuhu",
+        "cn_name": "芜湖市",
+        "code": 129,
+        "cpre": "wuhu"
+      },
+      {
+        "cename": "xiangxitujiazumiaozuzizhizhou",
+        "cn_name": "湘西土家族苗族自治州",
+        "code": 274,
+        "cpre": "xiangxitujiazumiaozuzizhizhou"
+      },
+      {
+        "cename": "hongkong",
+        "cn_name": "香港特别行政区",
+        "code": 2912,
+        "cpre": "hk"
+      },
+      {
+        "cename": "aomen",
+        "cn_name": "澳门特别行政区",
+        "code": 2911,
+        "cpre": "mc"
+      },
+      {
+        "cename": "taibei",
+        "cn_name": "台北市",
+        "code": 9002,
+        "cpre": "shh",
+        "cxfDis": 0
+      },
+      {
+        "cename": "gaoxiong",
+        "cn_name": "高雄市",
+        "code": 9019,
+        "cpre": "cs"
+      },
+      {
+        "cename": "xinjiapo",
+        "cn_name": "新加坡",
+        "code": 20001,
+        "cpre": "xinjiapo"
+      },
+      {
+        "cename": "mangu",
+        "cn_name": "曼谷",
+        "code": 20508,
+        "cpre": "mangu"
+      },
+      {
+        "cename": "mingguwu",
+        "cn_name": "名古屋",
+        "code": 26001,
+        "cpre": "mingguwu"
+      },
+      {
+        "cename": "hengbin",
+        "cn_name": "横滨",
+        "code": 26019,
+        "cpre": "hengbin"
+      },
+      {
+        "cename": "jingdu",
+        "cn_name": "京都",
+        "code": 26022,
+        "cpre": "jingdu"
+      },
+      {
+        "cename": "daban",
+        "cn_name": "大阪",
+        "code": 26033,
+        "cpre": "daban"
+      },
+      {
+        "cename": "dongjing",
+        "cn_name": "东京",
+        "code": 26041,
+        "cpre": "dongjing"
+      },
+      {
+        "cename": "fushan",
+        "cn_name": "釜山",
+        "code": 30001,
+        "cpre": "fushan"
+      },
+      {
+        "cename": "daqiu",
+        "cn_name": "大邱",
+        "code": 30004,
+        "cpre": "daqiu"
+      },
+      {
+        "cename": "datian",
+        "cn_name": "大田",
+        "code": 30005,
+        "cpre": "datian"
+      },
+      {
+        "cename": "guangzhou_hanguo",
+        "cn_name": "光州",
+        "code": 30007,
+        "cpre": "guangzhou_hanguo"
+      },
+      {
+        "cename": "shouer",
+        "cn_name": "首尔",
+        "code": 30016,
+        "cpre": "shouer"
+      },
+      {
+        "cename": "bali",
+        "cn_name": "巴黎",
+        "code": 49872,
+        "cpre": "bali"
+      },
+      {
+        "cename": "liyuereneilu",
+        "cn_name": "里约热内卢",
+        "code": 39816,
+        "cpre": "liyuereneilu"
+      },
+      {
+        "cename": "baxiliya",
+        "cn_name": "巴西利亚",
+        "code": 53009,
+        "cpre": "baxiliya"
+      },
+      {
+        "cename": "shengbaoluo",
+        "cn_name": "圣保罗",
+        "code": 39817,
+        "cpre": "shengbaoluo"
+      },
+      {
+        "cename": "niuyue",
+        "cn_name": "纽约",
+        "code": 60732,
+        "cpre": "niuyue"
+      },
+      {
+        "cename": "mosike",
+        "cn_name": "莫斯科",
+        "code": 65531,
+        "cpre": "mosike"
+      },
+      {
+        "cename": "lutedan",
+        "cn_name": "鹿特丹",
+        "code": 52390,
+        "cpre": "lutedan"
+      },
+      {
+        "cename": "yisitanbuer",
+        "cn_name": "伊斯坦布尔",
+        "code": 48552,
+        "cpre": "yisitanbuer"
+      },
+      {
+        "cename": "basailuona",
+        "cn_name": "巴塞罗那",
+        "code": 51271,
+        "cpre": "basailuona"
+      },
+      {
+        "cename": "madeli",
+        "cn_name": "马德里",
+        "code": 51314,
+        "cpre": "madeli"
+      }
+    ]
+  }
+}

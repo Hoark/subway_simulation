@@ -1,0 +1,123 @@
+{
+  "anti_auth": "83PEeKc@0Q62E2gv=JFWEvbzWUJ0L3GBuxLHRERVxNTtIIPXFXF1PzCywyS8v7uvkGcuVtvvhguVtvyheuVtvCMGuVtvCQMuVtvIPcuVtvYvjuVtvZgMuVtcvY1SGpuxxtFiFmEb1vc3CuVtvcPPuVtveGvuxtwfiKv7uvhgMuxVVtvrMhuVtGccZcuVtegvcguxLHRERVxNT",
+  "bound_rank_params": {
+    "nc": 1
+  },
+  "children": null,
+  "content": {
+    "addr": "地铁1号线八通线",
+    "area": 1550,
+    "area_name": "北京市石景山区",
+    "blinfo": [
+      {
+        "addr": "地铁1号线八通线",
+        "name": "苹果园-环球度假区",
+        "uid": "3e210d94b51b7a184107c1b7"
+      },
+      {
+        "addr": "地铁1号线八通线",
+        "name": "环球度假区-苹果园",
+        "uid": "bce557d6f7fadd4ea5da39b7"
+      }
+    ],
+    "city_id": 131,
+    "cla": [
+      [
+        22,
+        "交通设施"
+      ],
+      [
+        212,
+        "地铁/轻轨"
+      ],
+      [
+        518,
+        "地铁/轻轨站"
+      ]
+    ],
+    "cp": "bus",
+    "detail": 1,
+    "diPointX": 1293514004,
+    "diPointY": 482569450,
+    "ext": {
+      "around_info": [],
+      "line_info": [
+        {
+          "abb": "1号线八通线",
+          "clr": "0xc23a30",
+          "first_time": "04:57",
+          "last_time": "22:51",
+          "line_name": "地铁1号线八通线",
+          "terminals": "环球度假区",
+          "uid": "3e210d94b51b7a184107c1b7"
+        },
+        {
+          "abb": "1号线八通线",
+          "clr": "0xc23a30",
+          "first_time": "",
+          "last_time": "",
+          "line_name": "地铁1号线八通线",
+          "terminals": "苹果园",
+          "uid": "bce557d6f7fadd4ea5da39b7"
+        }
+      ],
+      "src_name": "dt_stop"
+    },
+    "ext_type": 0,
+    "geo": "1|12935140.04,4825694.50;12935140.04,4825694.50|12935140.04,4825694.50;",
+    "line_info": "[\n\t{\n\t\t\"line_color\" : \"0xc23a30\",\n\t\t\"line_name\" : \"\\u5730\\u94c11\\u53f7\\u7ebf\\u516b\\u901a\\u7ebf\"\n\t}\n]\n",
+    "name": "古城",
+    "navi_update_time": 1658425242,
+    "navi_x": "0",
+    "navi_y": "0",
+    "poiType": 3,
+    "poi_click_num": 0,
+    "primary_uid": "291c5802f26a751cbca240d9",
+    "station_num": null,
+    "status": 1,
+    "std_tag": "交通设施;地铁站",
+    "std_tag_id": "207",
+    "storage_src": "index",
+    "ty": 2,
+    "uid": "291c5802f26a751cbca240d9"
+  },
+  "current_city": {
+    "code": 131,
+    "geo": "1|12959238.56,4825347.47;12959238.56,4825347.47|12959238.56,4825347.47;",
+    "level": 12,
+    "name": "北京市",
+    "sup": 1,
+    "sup_bus": 1,
+    "sup_business_area": 1,
+    "sup_lukuang": 1,
+    "sup_subway": 1,
+    "type": 2,
+    "up_province_name": "北京市"
+  },
+  "err_msg": "",
+  "hot_city": [
+    "北京市|131",
+    "上海市|289",
+    "广州市|257",
+    "深圳市|340",
+    "成都市|75",
+    "天津市|332",
+    "南京市|315",
+    "杭州市|179",
+    "武汉市|218",
+    "重庆市|132"
+  ],
+  "result": {
+    "data_security_filt_res": 0,
+    "illegal": 0,
+    "login_debug": 0,
+    "qid": "17736119583596414604",
+    "region": "0",
+    "time": 0,
+    "type": 6,
+    "uii_qt": "inf",
+    "uii_type": "china_main",
+    "wd": "古城"
+  },
+  "uii_err": 0
+}

@@ -1,0 +1,188 @@
+{
+  "cities": [
+    {
+      "name": "南京地铁",
+      "url": "https://dt.8684.cn/nj"
+    },
+    {
+      "name": "上海地铁",
+      "url": "https://dt.8684.cn/sh"
+    },
+    {
+      "name": "天津地铁",
+      "url": "https://dt.8684.cn/tj"
+    },
+    {
+      "name": "杭州地铁",
+      "url": "https://dt.8684.cn/hz"
+    },
+    {
+      "name": "西安地铁",
+      "url": "https://dt.8684.cn/xa"
+    },
+    {
+      "name": "北京地铁",
+      "url": "https://dt.8684.cn/bj"
+    },
+    {
+      "name": "昆明地铁",
+      "url": "https://dt.8684.cn/km"
+    },
+    {
+      "name": "广州地铁",
+      "url": "https://dt.8684.cn/gz"
+    },
+    {
+      "name": "大连地铁",
+      "url": "https://dt.8684.cn/dl"
+    },
+    {
+      "name": "厦门地铁",
+      "url": "https://dt.8684.cn/xm"
+    },
+    {
+      "name": "成都地铁",
+      "url": "https://dt.8684.cn/cd"
+    },
+    {
+      "name": "兰州地铁",
+      "url": "https://dt.8684.cn/lz"
+    },
+    {
+      "name": "沈阳地铁",
+      "url": "https://dt.8684.cn/sy"
+    },
+    {
+      "name": "武汉地铁",
+      "url": "https://dt.8684.cn/wh"
+    },
+    {
+      "name": "苏州地铁",
+      "url": "https://dt.8684.cn/suz"
+    },
+    {
+      "name": "深圳地铁",
+      "url": "https://dt.8684.cn/sz"
+    },
+    {
+      "name": "重庆地铁",
+      "url": "https://dt.8684.cn/cq"
+    },
+    {
+      "name": "哈尔滨地铁",
+      "url": "https://dt.8684.cn/heb"
+    },
+    {
+      "name": "合肥地铁",
+      "url": "https://dt.8684.cn/hf"
+    },
+    {
+      "name": "常州地铁",
+      "url": "https://dt.8684.cn/cz"
+    },
+    {
+      "name": "长春地铁",
+      "url": "https://dt.8684.cn/cc"
+    },
+    {
+      "name": "嘉兴地铁",
+      "url": "https://dt.8684.cn/jx"
+    },
+    {
+      "name": "乌鲁木齐地铁",
+      "url": "https://dt.8684.cn/wlmq"
+    },
+    {
+      "name": "徐州地铁",
+      "url": "https://dt.8684.cn/xz"
+    },
+    {
+      "name": "宁波地铁",
+      "url": "https://dt.8684.cn/nb"
+    },
+    {
+      "name": "无锡地铁",
+      "url": "https://dt.8684.cn/wx"
+    },
+    {
+      "name": "绍兴地铁",
+      "url": "https://dt.8684.cn/sx"
+    },
+    {
+      "name": "温州地铁",
+      "url": "https://dt.8684.cn/wz"
+    },
+    {
+      "name": "石家庄地铁",
+      "url": "https://dt.8684.cn/sjz"
+    },
+    {
+      "name": "太原地铁",
+      "url": "https://dt.8684.cn/ty"
+    },
+    {
+      "name": "呼和浩特地铁",
+      "url": "https://dt.8684.cn/hhht"
+    },
+    {
+      "name": "济南地铁",
+      "url": "https://dt.8684.cn/jn"
+    },
+    {
+      "name": "郑州地铁",
+      "url": "https://dt.8684.cn/zz"
+    },
+    {
+      "name": "长沙地铁",
+      "url": "https://dt.8684.cn/cs"
+    },
+    {
+      "name": "福州地铁",
+      "url": "https://dt.8684.cn/fz"
+    },
+    {
+      "name": "南昌地铁",
+      "url": "https://dt.8684.cn/nc"
+    },
+    {
+      "name": "南宁地铁",
+      "url": "https://dt.8684.cn/nn"
+    },
+    {
+      "name": "贵阳地铁",
+      "url": "https://dt.8684.cn/gy"
+    },
+    {
+      "name": "东莞地铁",
+      "url": "https://dt.8684.cn/dg"
+    },
+    {
+      "name": "佛山地铁",
+      "url": "https://dt.8684.cn/fos"
+    },
+    {
+      "name": "青岛地铁",
+      "url": "https://dt.8684.cn/qd"
+    },
+    {
+      "name": "芜湖地铁",
+      "url": "https://dt.8684.cn/whu"
+    },
+    {
+      "name": "洛阳地铁",
+      "url": "https://dt.8684.cn/ly"
+    },
+    {
+      "name": "香港地铁",
+      "url": "https://dt.8684.cn/hk"
+    },
+    {
+      "name": "台北地铁",
+      "url": "https://dt.8684.cn/tb"
+    },
+    {
+      "name": "高雄地铁",
+      "url": "https://dt.8684.cn/gx"
+    }
+  ]
+}
